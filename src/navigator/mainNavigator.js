@@ -12,8 +12,10 @@ import SideMenu from "./sideMenu"
 import SplashScreen217884 from "../features/SplashScreen217884/navigator"
 import TheClubhouse317885 from "../features/TheClubhouse317885/navigator"
 import TheProShop617888 from "../features/TheProShop617888/navigator"
+import TheGrill717889 from "../features/TheGrill717889/navigator"
 
 const AppNavigator = {
+  TheGrill717889: { screen: TheGrill717889 },
   TheProShop617888: { screen: TheProShop617888 },
   TheClubhouse317885: { screen: TheClubhouse317885 },
   SplashScreen217884: { screen: SplashScreen217884 },
