@@ -31,9 +31,15 @@ export const installed_blueprints = [
     human_name: "TheGrill717889",
     access_route: "TheGrill717889"
   },
+
   {
     name: "TheLockerRoom817890",
     human_name: "TheLockerRoom817890",
     access_route: "TheLockerRoom817890"
+  },
+  {
+    name: "Hangouts917891",
+    human_name: "Hangouts917891",
+    access_route: "Hangouts917891"
   }
 ]
