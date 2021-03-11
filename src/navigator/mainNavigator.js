@@ -13,8 +13,10 @@ import SplashScreen217884 from "../features/SplashScreen217884/navigator"
 import TheClubhouse317885 from "../features/TheClubhouse317885/navigator"
 import TheProShop617888 from "../features/TheProShop617888/navigator"
 import TheGrill717889 from "../features/TheGrill717889/navigator"
+import TheLockerRoom817890 from "../features/TheLockerRoom817890/navigator"
 
 const AppNavigator = {
+  TheLockerRoom817890: { screen: TheLockerRoom817890 },
   TheGrill717889: { screen: TheGrill717889 },
   TheProShop617888: { screen: TheProShop617888 },
   TheClubhouse317885: { screen: TheClubhouse317885 },
