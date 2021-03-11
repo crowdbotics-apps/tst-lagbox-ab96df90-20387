@@ -10,8 +10,10 @@ import SideMenu from "./sideMenu"
  * new navigators can be imported here
  */ import PlanGame117883 from "../features/PlanGame117883/navigator"
 import SplashScreen217884 from "../features/SplashScreen217884/navigator"
+import TheClubhouse317885 from "../features/TheClubhouse317885/navigator"
 
 const AppNavigator = {
+  TheClubhouse317885: { screen: TheClubhouse317885 },
   SplashScreen217884: { screen: SplashScreen217884 },
   PlanGame117883: { screen: PlanGame117883 },
   //@BlueprintNavigationInsertion

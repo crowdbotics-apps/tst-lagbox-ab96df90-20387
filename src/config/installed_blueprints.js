@@ -7,9 +7,15 @@ export const installed_blueprints = [
     human_name: "PlanGame117883",
     access_route: "PlanGame117883"
   },
+
   {
     name: "SplashScreen217884",
     human_name: "SplashScreen217884",
     access_route: "SplashScreen217884"
+  },
+  {
+    name: "TheClubhouse317885",
+    human_name: "TheClubhouse317885",
+    access_route: "TheClubhouse317885"
   }
 ]
